@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Teste 1 Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathFenix/cypress-v1.git"
+  },
+  "author": "Alan Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeathFenix/cypress-v1/issues"
+  },
+  "homepage": "https://github.com/DeathFenix/cypress-v1#readme"
+}
